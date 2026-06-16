@@ -202,12 +202,6 @@ digital_card_product_analytics.ipynb
 pip install -r requirements.txt
 ```
 
-## Project Links
-
-Kaggle Notebook: PASTE_LINK_HERE
-Dashboard: PASTE_LINK_HERE
-GitHub Repository: PASTE_LINK_HERE
-
 ## Author
 
 Kristina Toskina
