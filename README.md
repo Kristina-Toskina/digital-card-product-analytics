@@ -170,20 +170,26 @@ Business interpretation: online transactions require stronger risk monitoring, e
 digital-card-product-analytics/
 │
 ├── README.md
-├── digital_card_product_analytics.ipynb
-├── requirements.txt
-│
-├── data/
-│   └── README.md
-│
-├── reports/
-│   └── key_findings.md
-│
-└── images/
-    └── dashboard_or_charts_screenshots.png
+├── digital-card-product-analytics.ipynb
+├── digital_card_product_analytics_dashboard.pbit
+└── digital_card_product_analytics_dashboard.pdf
+```
+## How to View the Project
+
+The notebook in this repository contains saved outputs, including tables, charts, hypothesis test results, and interpretations.
+
+To review the analysis, open:
+
+```text
+digital-card-product-analytics.ipynb
 ```
 
-## How to Run the Project
+To review the Power BI dashboard, open:
+```text
+digital_card_product_analytics_dashboard.pdf
+```
+
+## How to Reproduce the Analysis
 
 1. Download the dataset from Kaggle:
    https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets
@@ -191,16 +197,12 @@ digital-card-product-analytics/
 2. Open the notebook:
 
 ```text
-digital_card_product_analytics.ipynb
+digital-card-product-analytics.ipynb
 ```
 
 3. Run the notebook in Kaggle or Jupyter Notebook.
 
-4. Install required libraries if running locally:
-
-```bash
-pip install -r requirements.txt
-```
+4. Install required libraries if running locally
 
 ## Author
 
